@@ -239,14 +239,6 @@
       "iconUrls": {
         "medium": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
       }
-    },
-    {
-      "name": "Ice Spirit",
-      "id": 26000030,
-      "maxLevel": 14,
-      "iconUrls": {
-        "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
-      }
     }
   ]
 }
